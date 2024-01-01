@@ -2929,6 +2929,8 @@ span.teaser {
 }
 .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
 	color: rgb(255, 0, 0);
+	font-size: 50px;
+
 }
 .de_light .text-light h1, .de_light .text-light h2, .de_light .text-light h4, .de_light .text-light h4, .de_light .text-light h5, .de_light .text-light h6 {
 	color: #fff;
