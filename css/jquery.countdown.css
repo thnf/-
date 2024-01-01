@@ -10,7 +10,7 @@
 .countdown-show6 .countdown-section{width:16.25%;}
 .countdown-show7 .countdown-section{width:14%;}
 .countdown-section{display:block;float:left;font-size:13px;text-align:center;color:rgba(251,238,226,.2);text-transform:uppercase;letter-spacing:1px;}
-.countdown-amount{font-family:"Poppins";font-size:42px;color:#c02c38;}
+.countdown-amount{font-family:"Poppins";font-size:66px;color:#c02c38;}
 .countdown-period{font-family:"Poppins";display:block;width:70px;margin:0 auto;margin-top:5px;color:#2cc0ac;}
 .countdown-descr{display:block;width:100%;}
 .countdown-s1 .countdown-amount{font-weight:800;}
